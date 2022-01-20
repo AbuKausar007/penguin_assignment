@@ -1,0 +1,62 @@
+/* ---------------------------------Common Styles-------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+body{
+    font-family: 'Bebas Neue',
+    cursive;
+    font-family: 'Montserrat',
+    sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
+}
+/* ------------------------------------header style------------------------------ */
+.nav-item .nav-link{
+    font-weight: 500;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 16px;
+    color: #3C3C3C;
+}
+.navbar-brand{
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight: bold;
+    font-size: 25.4255px;
+}
+.penguin{
+    color: #A4BC46;
+}
+.fashion{
+    color: #363958;
+}
+.orange_color{
+    color: #FABE4C;
+}
+/* --------------------------------------banner style--------------------------------- */
+.banner_left h1{
+    font-family: Bebas Neue;
+    font-weight: normal;
+    font-size: 80px;
+}
+.banner_left p{
+    font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #3E3E3E;
+    line-height: 26px;
+}
+.shop_now{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    width: 170px;
+    height: 60px;
+}
+.shop_now a{
+    text-decoration: none;
+    font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 16px;
+    padding: 15px 25px;
+}
